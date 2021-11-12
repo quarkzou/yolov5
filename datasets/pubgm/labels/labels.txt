@@ -1,0 +1,5 @@
+avatar
+head
+shoes
+glasses
+hat
