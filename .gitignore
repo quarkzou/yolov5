@@ -251,3 +251,4 @@ fabric.properties
 
 quark_test/
 /datasets/pubgm/labels_tmp/
+/datasets/pubgm/labels_mark/
